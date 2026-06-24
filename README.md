@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm ThePoori 👋
+# Hey, I'm Pooria 👋
 
 ### Security-Minded Backend Developer | Django & Python Enthusiast
 
